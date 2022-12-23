@@ -1,0 +1,7 @@
+[user]
+	name = S22013
+	email = s22013@std-college.ac.jp
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
