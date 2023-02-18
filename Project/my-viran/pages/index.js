@@ -5,6 +5,7 @@ export default function Blog () {
     <Hero
       title='CUBE'
       subtitle='アウトプットしていくサイト'
+      imageOn
     />
   )
 }
