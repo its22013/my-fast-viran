@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "eslint-config-prettier": "^8.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.2.4"
   }
 }
