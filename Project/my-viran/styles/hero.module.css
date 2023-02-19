@@ -1,5 +1,5 @@
 .flexContainer {
-  composes: sideBySideCenter from 'styles/utils.module.css';
+  composes: sideBySideCenter from 'styles/utils.modules.css';
 }
 
 .text {
@@ -10,7 +10,7 @@
 .title {
   font-size: var(--display);
   font-weight: 900;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.15rem;
 }
 
 .subtitle {
@@ -19,11 +19,11 @@
 
 /* image */
 .image {
-  width: 100%;
+    width: 100%;
 }
 
 @media (min-width: 768px) {
-  .image {
-    width: 50%;
-  }
+    .image {
+        width: 50%;
+    }
 }

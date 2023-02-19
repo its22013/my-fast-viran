@@ -1,246 +1,4 @@
 ls
-npm run dev
-ls
-curl -O https://github.com/its22013/next-react-website/blob/main/images/ogp.jpg
-ls
-cd ..
-npm run dev
-cd components
-nvim meta.js 
-npx @next/codemod next-image-to-legacy-image .
-cd ..
-npm install next@latest react@latest react-dom@latest
-npm run dev
-next-image-to-legacy-image codemod 
-npx @next/codemod next-image-to-legacy-image 
-npx @next/codemod next-image-experimental .
-npm run dev
-npm run build
-git add -
-a
-git add -A
-git commit -m "OK"
-git push -u origin main 
-git fetch 
-git merge
-git push -u origin main 
-git fetch 
-git merge
-git push -u origin main 
-git merge origin/main 
-git log --oneline --graph --all
-git status 
-git add images/ogp.jpg 
-git commit -m "OKMAN"
-git status 
-git push origin main 
-npm run build
-sudo shutdown -h now
-ls
-cd Project/
-cd blog/
-npm run dev
-cd images/
-ls
-rm ogp.jpg 
-curl -O https://drive.google.com/drive/u/0/my-drive
-ls
-mv my-drive ogp.jp
-ls
-cd ..
-cd blog/images/
-nvim ogp.jpg 
-rm ogp.jpg 
-curl -O https://lh3.googleusercontent.com/pDClKqaOPKEw8XfNl0C6OGE948UDWNc_irenOaRgX5jeSSCsz22X4ZzZmnQ0SnBJOwSEcTEikkS9cmDnee-de5jUWNEBnfpA2zG8Z7qDdKrcvXZqNrL3qcoJXgCBwA5GFVQNg6DZwkW6_zK1f-zJSNVWhhyKdV25IhxHZ6vDbl22nVdlZcBY5Xqc6-yRJkJD9f1USTcJBwxBho0IdWODIkyV0WlIM6EYW9kSMVxmxfGb4sGNARGvCDJygJdP4PnX3gOsOQVI_RsVjV80UjAM1C9AJ63XO0IHglzx3eu2Ni7qchaSNBkkkfg2M2ttd3rUhXY1VQTfDnGye2vUqy-3IeMWGg3bM9l8A215q48M60bJ802QjbarboOHfr2_3_ThkpHQoR9tToUrbgzjvZR8n6MFCbe6BKwsUXSmFh0z2pvlXWGqfCMFoZXlN35he4PCm2wlNAXzJU41Ca1a2D9tEfniW76Um1G_VF-JapIuUy6lbsCcm8J9wR9vIuomT2xTzGFylL8f4MJy2XGOQ5JDtjDpCRoXsAdHrKQSXc2mOSjssa-fVnKIh6eq_e7NW8VgC5TiaXK25F6kGFWBgDcXIXciO7XtOoTD6KmCb6HIeAhsDTgKKNrkTmHrBTMuEatqOumozgYJA4G0bJPhv56RuK-EDIyZBTbbnNCvyvGOynj-PJa3Av-TOTMmpTLVykoaFk_Cv33bwCIlHr6VYb8uOT3ASFBaGbuzpg_McBk6iwUQ2aX_xz102jrdUR8--8u6XgeM8bVL5E7ZANlGCue6sOr7e6bYe-fTmp9vR-F0mW3ozBFV4yXtXaGcwHfdsyZYjJpbaglFIg5Tsn5oemQtyxGXawYSiVEYPwKxJfF4bAzr6od6IiEfBPU_ypKX9GTTzvp-N6_yfBumHPp_7x3HLIpqPTmu0v5oEHeouKa1hHxISLMdzuZdAFJfnFMNO-rY4zQ1LCfT8DFOCzM0a8FL=w884-h465-no?authuser=0
-ls
-curl -O https://photos.google.com/photo/AF1QipOAh7AdWAqj7mR3ycNuGdcyVfTaBKuHii-KbinG ogp.jpg
-ls
-nvim AF1QipOAh7AdWAqj7mR3ycNuGdcyVfTaBKuHii-KbinG 
-cd 
-sudo shutdown -h now
-vimtutor -o hoge.rb fuga.rb
-ls
-vimtutor -d ja en
-vimtutor ja
-ls
-rm '!vimtutor ja' 
-ls
-cd Project/blog/
-npm run dev
-cd images/
-ls
-rm AF1QipOAh7AdWAqj7mR3ycNuGdcyVfTaBKuHii-KbinG 
-ls
-curl -O https://github.com/ebisucom/next-react-website/blob/main/blog/images/ogp.jpg
-ls
-npm run dev
-npm run build
-cd ..
-cd lib/
-nvim constants.js 
-cd ..
-nvim pages/blog/schedule.js 
-npm run dev
-cd public/
-ls
-curl -O https://github.com/ebisucom/next-react-website/blob/main/blog/public/eyecatch.jpg
-ls
-cd ..
-npm run dev
-npx @next/codemod next-image-to-legacy-image .
-npx @next/codemod next-image-experimental .
-npm run dev
-nvim pages/blog/schedule.js 
-npm run dev
-nvim pages/blog/schedule.js \
-npm run dev
-nvim lib/constants.js 
-npm run dev
-nvim lib/constants.js 
-cd public/
-ls
-nvim eyecatch.jpg 
-nvim favicon.
-cd
-ls
-cd next-react-website/
-ls
-cd blog
-ls
-cd images/
-ls
-cd ..
-cd public/
-ls
-mv eyecatch.jpg ../
-ls
-cd ..
-ls
-mv eyecatch.jpg ../
-cd ..
-ls
-mv eyecatch.jpg ../
-ls
-cd ..
-ls
-mv eyecatch.jpg Project/blog/
-cd Project/blog/
-ls
-cd public/
-ls
-rm eyecatch.jpg 
-cd ..
-mv eyecatch.jpg public/
-ls
-cd public/
-ls
-npm run dev
-ls
-cd ..
-ls
-nvim lib/constants.js 
-npm run dev
-nvim lib/constants.js 
-npm run dev
-npm install plaiceholder
-npm install sharp
-nvim pages/blog/schedule.js 
-npm run dev
-cd pages/blog/
-ls
-mv schedule.js [slug].js
-ls
-mv '[slug].js' "[slug].js"
-mv \[slug\].js schedule.js 
-ls
-mv schedule.js "[slug].js"
-ls
-vim \[slug\].js 
-nvim \[slug\].js 
-npm run dev
-ls
-nvim \[slug\].js 
-mv \[slug\].js schedule.js
-ls
-npm run dev
-ls
-nvim schedule.js 
-ren schedule.js [slug].js
-mv schedule.js [slug].js
-npm run dev
-ls
-nvim \[slug\].js 
-npm run dev
-nvim \[slug\].js 
-npm run dev
-cd 
-cd Project/blog/
-nvim lib/api.js 
-nvim pages/blog/\[slug\].js 
-npm run dev
-nvim lib/prev-next-post.js
-sudo shutdown -h now
-cd ..
-cd
-cd Project/blog/
-nvim lib/prev-next-post.js
-npm run dev
-nvim pages/blog/\[slug\].js 
-npm run dev
-nvim components/pagination.js
-nvim pages/blog/\[slug\].js 
-npm run dev
-nvim pages/blog/\[slug\].js 
-npm run dev
-nvim styles/pagination.module.css
-npm run dev
-nvim styles/pagination.module.css
-npm run dev
-npx @next/codemod new-link .
-nvim components/pagination.js 
-npm run dev
-nvim lib/api.js 
-nvim pages/blog/index.js 
-nvim components/posts.js
-nvim pages/blog/index.js 
-npm run dev
-nvim styles/posts.module.css
-npm run dev
-nvim components/posts.js 
-npm run dev
-nvim components/posts.js 
-npm run dev
-nvim pages/blog/index.js 
-npm run dev
-nvim components/posts.js 
-nvim pages/blog/index.js 
-npm run dev
-nvim components/posts.js 
-nvim styles/posts.module.css
-npm run dev
-npm i next@latest react@latest react-dom@latest
-npm run dev
-nvim pages/index.js 
-npm run dev
-nvim pages/blog/\[slug\].js 
-npm run dev
-sudo shutdown -h now
-cd Project/blog/images/
-ls
-rm ogp.jpg 
-cd
-ls
-cd next-react-website/
-lks
-ls
-cd blog/images/
-ls
-cp -h
-c -h
-cp ogp.jpg ogp.jpg.1
-ls
-mv ogp.jpg.1 ..
-ls
 cd ..
 mv ogp.jpg.1 ..
 cd ..
@@ -1997,4 +1755,246 @@ npm install plaiceholder
 npm install sharp
 npm run dev
 nvim pages/blog/\[slug\].js 
+sudo shutdown -h now
+ls
+cd Project/pandaman/
+ls
+npm run dev
+cd ..
+ls
+rm -r pandaman/
+ls
+rm -rf pandaman/
+ls
+npx create-next-app@latest
+ls
+cd my-viran/
+cd ..
+rm -rf moon/
+ls
+cd my-viran/
+npm run dev
+wls
+ls
+nvim package.json 
+nvim pages/index.js 
+mkdir components
+cd components/
+nvim header.js
+nvim hero.js
+nvim footer.js
+npm run dev
+cd ..
+nvim styles/globals.css 
+npm run dev
+git add .
+git commit -m '2.4'
+nvim components/layout.js
+nvim pages/index.js 
+nvim pages/_app.js 
+nvim pages/index.js 
+npm run dev
+nvim pages/_app.js 
+npm run dev
+nvim pages/about.js
+nvim pages/index.js 
+npm run dev
+nvim components/hero.js 
+npm run dev
+nvim pages/index.js 
+nvim pages/about.js 
+cd pages/
+ls
+mkdir blog
+cd ..
+nvim pages/blog/index.js
+npm run dev
+git add .
+git commit -m '2.9'
+nvim pages/index.js 
+nvim components/hero.js 
+npm run dev
+nvim components/logo.js
+nvim components/nav.js
+nvim components/header.js 
+nvim components/footer.js
+npm run dev
+nvim components/footer.js
+nvim components/nav.js 
+nvim components/logo.js 
+npm run de
+npm run dev
+nvim pages/_app.js 
+nvim styles/globals.css 
+npm run dev
+git add .
+git commit -m '3.5'
+git branch chapter3
+git checkout chapter3 
+git branch 
+nvim styles/hero.module.css
+nvim components/hero.js 
+npm run dev
+nvim styles/hero.module.css
+npm run dev
+git add .
+git commit -m '3.6'
+nvim styles/logo.module.css
+nvim components/header.js 
+nvim components/logo.js 
+npm run dev
+nvim components/logo.js 
+npm run dev
+nvim styles/nav.module.css
+nvim components/nav.js 
+npm run dev
+git add .
+git commit -m '3.7'
+git checkout main 
+git branch 
+git merge chapter3
+git branch chapter4
+git checkout chapter4
+git branch 
+nvim styles/utils.module.css
+nvim styles/header.module.css
+nvim components/header.js 
+npm run dev
+nvim components/hero.js 
+nvim styles/hero.module.css 
+npm run dev
+nvim styles/footer.module.css
+nvim components/footer.js 
+npm run dev
+nvim styles/container.module.css
+nvim components/container.js
+nvim components/header.js 
+nvim components/footer.js 
+npm run dev
+nvim components/container.js 
+nvim pages/index.js 
+nvim pages/about.js 
+nvim pages/blog/index.js 
+npm run dev
+nvim styles/post-body.module.css
+nvim styles/contact.module.css
+nvim styles/two-column.module.css
+nvim components/post-body.js
+nvim pages/about.js 
+nvim components/contact.js
+nvim components/two-column.js
+nvim pages/about.js 
+npm run dev
+git add .
+git commit -m '4.8'
+git checkout main 
+git branch 
+git merge chapter4
+git remote add origin https://github.com/its22013/my-viran.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/its22013/my-viran.git
+git push -u origin main
+git branch -M origin main 
+git branch 
+git remote add origin https://github.com/its22013/my-viran.git
+git remote rm origin
+git remote add origin https://github.com/its22013/my-viran.git
+git branch -M main
+$ git push -u origin main
+git push -u origin main
+las
+ls
+git checkout -b origin/main 
+git show-branch 
+git add .
+git commit -m 'ok'
+git add -A
+git add .
+git push 
+git push -u origin main 
+git push -f origin HEAD
+git revert HEAD
+git push origin HEAD
+git reset --soft HEAD^
+git push -f
+git push -f origin main 
+rm -rf .git
+git init 
+git add -A
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/its22013/my-website-kadai.git
+git push -u origin main 
+git clone https://github.com/its22013/next-react-website.git
+ls\
+sudo shutdown -h now
+ls
+cd Project/my-viran/
+ls
+npm run dev
+git branch 
+git branch chapter5
+git checkout 
+git checkout chapter5 
+git  branch 
+ls
+nvim pages/about.js 
+npm run dev
+ls
+cd next-react-website/
+ls
+cp -r images/ images2
+mv images2 ../
+cd ..
+ls
+mv images2/ images
+npm run dev
+nvim components/hero.js 
+npm run dev
+nvim components/hero.js 
+npm run dev
+nvim styles/hero.module.css 
+nvim components/hero.js 
+npm install @fortawesome/fontwesome-svg-core
+npm install @fortawesome/fontawesome-svg-core
+npm install @fortawesome/react-fontawesome
+npm install @fortawesome/free-solid-svg-icons
+npm install @fortawesome/free-regular-svg-icons
+npm install @fortawesome/free-brands-svg-icons
+nvim pages/_app.js 
+nvim components/social.js
+nvim styles/social.module.css
+nvim components/footer.js 
+nvim components/contact.js 
+npm run dev
+git add .
+git commit -m '5.10'
+nvim components/contact.js 
+nvim components/social.js 
+nvim styles/social.module.css 
+git push 
+git add .
+git commit -m '5end'
+git push 
+git push -u origin main 
+git fetch 
+git merge
+git branch 
+git branch main 
+git checkout main 
+git branch 
+git push 
+git push git@github.com:its22013/my-website-kadai.git
+git remote -v
+git push origin main 
+cd ..
+cd blog/
+git add .
+git commit -m 'kadai'
+git push 
+git remote add origin https://github.com/its22013/next-react-website.git
+ssh -T git@github.com:its22013/next-react-website.git
+ls ~/.ssh
+npm run build 
 sudo shutdown -h now
